@@ -1,4 +1,4 @@
-## Hi There 👍! Follow me online:
+## Hi There 👍 Follow me online:
 
 🐦 [Twitter](https://twitter.com/jorgeandrealves)
 
