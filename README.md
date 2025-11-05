@@ -1,4 +1,4 @@
-# About Me
+# About Me 👨🏻‍💻
 
 Hi! 👋 I'm a passionate **Python Engineer** and **DevOps Developer** working since 2010 designing, building, and optimising scalable solutions. My journey spans from backend development with frameworks like Django and Flask to managing cloud infrastructures, CI/CD pipelines, and container orchestration. 🚀
 
